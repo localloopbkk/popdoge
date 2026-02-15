@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "popdoge",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "fbae7354-ed8e-4462-8cb1-ad4b6cebbe76",
+			"database_name": "d1-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
